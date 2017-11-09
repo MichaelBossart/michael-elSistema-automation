@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="8">
+
+  <testsuite name="tests"
+    errors="0" failures="0" hostname="" id="" package="tests" skipped="0"
+    tests="8" time="63.72" timestamp="Thu, 09 Nov 2017 17:42:21 GMT">
+  
+    <testcase name="Click through all tabs and assert text" classname="tests" time="11.64" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="navigate from home screen to caledar input scren" classname="tests" time="5.495" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Navigate from home sreen to about us" classname="tests" time="4.828" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Input good info into credit card info " classname="tests" time="7.378" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="input nothing into credit card field" classname="tests" time="5.697" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="click on the events by picture" classname="tests" time="9.044" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="navigate to support us from homescreen" classname="tests" time="4.919" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="navigate using the footer tags" classname="tests" time="14.72" assertions="10">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
